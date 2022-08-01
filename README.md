@@ -1,4 +1,4 @@
-#100_DaysCodingChallenge
+# 100_DaysCodingChallenge
 
 Challenge to boost DSA &amp; Competitive Programming knowledge.
 I will be adding day by day progress in form of notes, knowledge or code learnt / practiced for the next 100 days.
