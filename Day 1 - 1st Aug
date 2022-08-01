@@ -1,4 +1,24 @@
-Started Data Structure in C++ : Explored STL (Standar Template Library) containers.
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+//       
+//       Task     :        100_DaysCodingChallenge
+//       Progress :        Learning
+//       Type     :        Video ttorials
+//       Author   :        Abhijeet Kalthil
+//       Date     :        01/08/2022 
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Day 1 summary :
+
+# Explored study material.
+# Made physical notes as per progress.
+# Found and made a roead map to follow.
+# Descided to paralelly clear concepts and explore the sections.
+# Finalized the languange for the challenge (C++).
+# Started Data Structure in C++ : Explored STL (Standar Template Library) containers.
+
+
 1) Pair :
          1) What is Pair?
          2) Possible Usage.
@@ -29,3 +49,6 @@ Started Data Structure in C++ : Explored STL (Standar Template Library) containe
           2) How to add element in deque.
           3) How to delete element in deque.
           4) Other important functions in deque.
+          
+          
+##########################################################--END--##########################################################
