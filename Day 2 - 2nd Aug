@@ -3,9 +3,9 @@
 //       
 //       Task     :        100_DaysCodingChallenge
 //       Progress :        Learning
-//       Type     :        Video ttorials
+//       Type     :        Video tutorials
 //       Author   :        Abhijeet Kalthil
-//       Date     :        01/08/2022 
+//       Date     :        02/08/2022 
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -13,42 +13,16 @@ Day 1 summary :
 
 # Explored study material.
 # Made physical notes as per progress.
-# Found and made a roead map to follow.
+# Started following the designed roead map.
 # Descided to parallelly clear concepts and explore the sections.
 # Finalized the languange for the challenge (C++).
 # Started Data Structure in C++ : Explored STL (Standard Template Library) -> Containers.
 
 
-1) Pair :
-         1) What is Pair?
-         2) Possible Usage.
-         3) How to access pair
-         4) Nested pair.
-         5) Pair Array.
-         6) Ways to access pair array elements .
+5) Stack
+6) Queue
+7) Priority Queue
+8) Set
+9) Multiset
 
-2) Vector : 
-           1) What is Vector?
-           2) How to add element in vector.
-           3) Multiple ways to create vector.
-           4) Ways to access value in vector.
-           5) How to delete element in vector.
-           6) Insert at position.
-           7) Copy 1 vector to another vector.
-           8) Other important functions in vector.
-
-3) List : 
-         1) What is List ?
-         2) How to add element in List.
-         3) Ways to access value in list.
-         4) How to delete element in list.
-         5) Other important functions in list.
-         
-4) Deque : 
-          1) What is Deque ?
-          2) How to add element in deque.
-          3) How to delete element in deque.
-          4) Other important functions in deque.
-          
-          
 ##########################################################--END--##########################################################
