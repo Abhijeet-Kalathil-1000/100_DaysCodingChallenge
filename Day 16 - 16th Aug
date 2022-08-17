@@ -18,8 +18,9 @@ Day 16 Summary :
 
 1) Frequency count method.
 2) Time complexity.
-3) Time complexity of while & if.
-4) 
+3) Time complexity with nested loop.
+4) Time complexity with independent loop.
+5) Derive loop execution time formula.
 
 #Leetcode
 
