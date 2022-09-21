@@ -4,7 +4,7 @@
 //       Progress :        Learning
 //       Type     :        Coding & Lecture
 //       Author   :        Abhijeet Kalthil
-//       Date     :        03/09/2022 
+//       Date     :        16/09/2022 
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -14,9 +14,14 @@ Day 34 Summary :
 # Started following the designed road map.
 # Descided to parallelly clear concepts and explore the sections.
 
-#Revision
+#LeetCode
 
-1)
-2) 
+1) Subset sum I
+1) Subset sum II
+
+#Lecture 
+
+1) Backtracking (Subset sum II)
+
 
 ##########################################################--END--##########################################################
